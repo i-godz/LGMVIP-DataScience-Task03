@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Dataset - Terrorism
+# Exploratory Data Analysis on Global Terrorism Dataset 
 
 
 ## Objective
