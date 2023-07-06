@@ -15,8 +15,7 @@ Dataset Link- https://bit.ly/2TK5Xn5
 
 1. Load the dataset using Python libraries such as pandas and numpy
 
-2. Perform data cleaning and preprocessing steps to remove any missing or irrelevant data, used API to fill null georeferenced data
-
+2. Perform data cleaning and preprocessing steps to remove any missing or irrelevant data
 3. Perform exploratory data analysis to identify trends and patterns in the data. This includes analyzing the frequency of terrorist attacks in different countries, regions, and over time.
 
 4. Visualize the results using charts and graphs to gain insights and draw conclusions.
